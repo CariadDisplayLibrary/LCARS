@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: LCARS.h
-Description: LCARS font for DisplayCore
+Description: LCARS
