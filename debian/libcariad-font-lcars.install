@@ -1,0 +1,4 @@
+library.json libraries/Cariad/LCARS
+library.properties libraries/Cariad/LCARS
+README.md libraries/Cariad/LCARS
+src libraries/Cariad/LCARS
